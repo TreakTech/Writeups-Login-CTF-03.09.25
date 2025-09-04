@@ -7,7 +7,7 @@ CTFkom mostly just uses the "rockyou.txt" wordlist if one is needed.
 
 So we can use the linux tool fcrackzip to discover the password with "rockyou.txt"
 
-<img width="500" height="108" alt="{BFBDA65A-446B-4224-B322-747815A706E0}" src="https://github.com/user-attachments/assets/0b6933e8-4fba-4856-85d0-41e41e35963a" />
+<img width="500" height="108" alt="{BFBDA65A-446B-4224-B322-747815A706E0}" src="https://github.com/user-attachments/assets/6173e300-a4ef-4ac2-808a-00e02407875c" />
 
 Finally we can take this password, open the zip file and get the flag.
 
