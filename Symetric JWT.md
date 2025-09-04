@@ -22,11 +22,11 @@ But this cant just be done because the token is encrypted with a password.
 
 So we use Hashcat with the wordlist "rockyou.txt" to discover the password:
 
-<img width="600" height="200" alt="{F2801384-7EE3-4A13-BE18-D6021DB4E81B}" src="https://github.com/user-attachments/assets/0f17dbe4-7b2f-49f0-b705-4b42d3e919b3" />
+<img width="600" height="200" alt="{F2801384-7EE3-4A13-BE18-D6021DB4E81B}" src="https://github.com/user-attachments/assets/372cee4e-41dd-4b6d-98f2-4aeba3f021c9" />
 
 After running the command we are given the password: duckhunter23.
 
-<img width="1663" height="1064" alt="{A799EE72-32BB-4B20-A63E-DC01C77E2F8B}" src="https://github.com/user-attachments/assets/a11b6a2f-5cec-4806-bcde-262497b3d3e3" />
+<img width="1663" height="1064" alt="{A799EE72-32BB-4B20-A63E-DC01C77E2F8B}" src="https://github.com/user-attachments/assets/4bdcaa15-0c55-4885-b6da-8018c1374538" />
 
 Now we can take this password back to jwt.io, change from decode to encode and write in the password. Then we edit admin from false to true.
 
