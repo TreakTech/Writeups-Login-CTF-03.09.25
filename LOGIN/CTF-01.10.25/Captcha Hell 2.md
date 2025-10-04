@@ -175,7 +175,7 @@ So this is what i did:
   <img width="1108" height="590" alt="{0228CFAF-39CF-4FC6-9C80-13CC8ABA3D2E}" src="https://github.com/user-attachments/assets/5bbba22a-ac09-457e-be99-2be7c69e550f" />  
 
 
-Now that we know everything all we need to do is automate it so that it goes through all 100 levels, and then gives us the progrss cookie.
+Now that we know everything all we need to do is automate it so that it goes through all 100 levels, and then gives us the progress cookie.
 ````
 #!/usr/bin/env python3
 """
